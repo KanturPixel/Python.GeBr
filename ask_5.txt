@@ -1,0 +1,2 @@
+Entered numbers:1 2 3 10 20 150
+Sum of numbers: 186
